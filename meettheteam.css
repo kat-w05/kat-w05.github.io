@@ -1,0 +1,283 @@
+.nav {
+  list-style-type: none;
+  padding: 1em;
+  background-color: white;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+.web {
+  display: inline;
+  border-right: 2px solid white;
+}
+
+.web:last-child {
+  border-right: none;
+}
+
+.web a {
+  color: black;
+  text-decoration: none;
+  padding: 1em;
+  font-size: 1em;
+}
+
+.executive {
+  font-size: 35px;
+  font-family: 'Josefin Slab', serif;
+  text-align:center;
+}
+
+.twenty {
+  font-size:20px;
+  font-family: 'Josefin Slab', serif;
+  text-align:center;
+}
+
+.missionstatement {
+  font-family: 'Comfortaa', cursive; 
+  text-align:center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.kat {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.steven {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.maggie {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.sahiti {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.taliya {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.taeeun {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.charly {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.sung {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.kaylee {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.bentley {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.thooya {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.isabella {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.annalise {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.trisha {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.mackenzie {
+  width: 400px;
+  height: 350px;
+  border:30px;
+  object-fit: cover;
+  padding: 25px;
+  justify-content: center;
+}
+
+.item{
+  width:450px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}
+.subject {
+color:#ffa56f;
+text-align:center;
+font-size: 35px;
+font-family: 'Josefin Slab', serif;
+}
+
+.katbio {
+ font-family: 'Comfortaa', cursive;
+}
+
+.stevenbio {
+ font-family: 'Comfortaa', cursive;
+}
+
+.maggiebio {
+ font-family: 'Comfortaa', cursive;
+}
+
+.sahitibio {
+ font-family: 'Comfortaa', cursive;
+ color:white;
+}
+
+.taliyabio {
+ font-family: 'Comfortaa', cursive;
+ color:white;
+}
+
+.taeeunbio {
+ font-family: 'Comfortaa', cursive;
+ color:white;
+}
+
+.charlycbio {
+font-family: 'Comfortaa', cursive;
+color:#ffa56f;
+}
+
+.charlybio {
+ font-family: 'Comfortaa', cursive;
+ color:black;
+}
+
+.sungcbio {
+font-family: 'Comfortaa', cursive;
+color:#ffa56f;
+}
+
+.kayleeybio {
+font-family: 'Comfortaa', cursive;
+color:#ffa56f;
+}
+
+.sungbio {
+ font-family: 'Comfortaa', cursive;
+ color:black;
+}
+
+.kayleebio {
+ font-family: 'Comfortaa', cursive;
+ color:black;
+}
+
+.bentleybio {
+ font-family: 'Comfortaa', cursive;
+ color:black;
+}
+.isabellabio {
+ font-family: 'Comfortaa', cursive;
+ color:black;
+}
+
+.annalisebio {
+ font-family: 'Comfortaa', cursive;
+ color:black;
+}
+
+.trishabio {
+ font-family: 'Comfortaa', cursive;
+ color:white;
+}
+
+.mackenziebio {
+ font-family: 'Comfortaa', cursive;
+ color:white;
+}
