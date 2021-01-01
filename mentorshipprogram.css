@@ -1,0 +1,59 @@
+body {
+  font-family: 'Josefin Slab', serif;
+  text-align:center;
+}
+
+.nav {
+  list-style-type: none;
+  padding: 1em;
+  background-color: white;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+.web {
+  display: inline;
+  border-right: 2px solid white;
+}
+
+.web:last-child {
+  border-right: none;
+}
+
+.web a {
+  color: black;
+  text-decoration: none;
+  padding: 1em;
+  font-size: 1em;
+}
+
+.missionstatement {
+  font-family: 'Comfortaa', cursive; 
+  text-align:center;
+}
+
+p {
+  text-align:center;
+}
+
+.stats {
+  color: black;
+  list-style-position: inside;
+}
+
+.buttonapply {
+ background-color: rgb(0, 0, 0);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Comfortaa', cursive; 
+ }
+
+
